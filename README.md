@@ -32,3 +32,11 @@ DELETE /employees/{id}
 ```
 
 [API reference](https://github.com/typicode/json-server)
+
+### Using faker.js
+
+Using `faker.js` to automatically create fake data by json type.
+
+```shell
+json-server employees.js
+```
